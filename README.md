@@ -43,8 +43,8 @@ CodeMind is a production-ready, full-stack application that allows developers to
 
 ### 1. Clone the project
 ```bash
-git clone <your-repo-url>
-cd codebase-qa
+git clone https://github.com/Sai5636789/codemindqa.git
+cd codemindqa
 ```
 
 ### 2. Configure Environment Variables
